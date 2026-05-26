@@ -40,6 +40,20 @@ Aspiring UI/UX Designer • QA Enthusiast
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabhyata-aryal&show_icons=true&theme=rose_pine" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabhyata-aryal&theme=rose_pine" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 - LinkedIn: linkedin.com/in/sabhyata-aryal-127028215
