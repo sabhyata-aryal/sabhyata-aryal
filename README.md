@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ About Me
+## 👩‍💻 About Me
 
 - 🎓 CSIT student passionate about **UI/UX design & human-centered products**
 - 🎨 Focused on crafting **clean, modern, and accessible interfaces**
