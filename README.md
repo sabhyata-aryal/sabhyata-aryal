@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Sabhyata Aryal 👋</h1>
 
-<!--
-**sabhyata-aryal/sabhyata-aryal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science & Information Technology Student <br>
+Aspiring UI/UX Designer • QA Enthusiast 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 CSIT student from Nepal
+- 🎨 Interested in UI/UX Design and aesthetic interfaces
+- 🧪 Exploring QA Testing and Project Management
+- 🌱 Currently learning JavaScript and modern web technologies
+
+---
+
+## 🛠 Tech Stack & Skills
+
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
+
+---
+
+## 📌 Current Goals
+
+- Improve UI/UX skills
+- Build real-world projects
+- Learn QA automation
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: linkedin.com/in/sabhyata-aryal-127028215
+- Portfolio: sabhyata-portfolio.vercel.app
+- Email: sabhyata.aryal01@gmail.com
