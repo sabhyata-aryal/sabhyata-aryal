@@ -12,27 +12,27 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 CSIT student passionate about **UI/UX design & human-centered products**
-- 🎨 Focused on crafting **clean, modern, and accessible interfaces**
-- 🧠 Interested in **product thinking, UX research, and usability improvements**
-- 🧪 Exploring **QA testing to improve product quality and user experience**
-- 🚀 Enjoy turning ideas into **real, usable digital products**
-- 🏆 Led a hackathon team building a SaaS platform — *MirrorDocs (Plagiarism Detection System)*
+- CSIT student passionate about **UI/UX design & human-centered products**
+- Focused on crafting **clean, modern, and accessible interfaces**
+- Interested in **product thinking, UX research, and usability improvements**
+- Exploring **QA testing to improve product quality and user experience**
+- Enjoy turning ideas into **real, usable digital products**
+- Led a hackathon team building a SaaS platform — *MirrorDocs (Plagiarism Detection System)*
 
 ---
 
 ## 🛠 Tech & Design Stack
 
-### 🎨 UI/UX & Design Tools
+### UI/UX & Design Tools
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
 
-### 💻 Frontend Development
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-### ⚙️ Backend & Tools
+### Backend & Tools
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
@@ -44,18 +44,18 @@
 ## 🏆 Leadership & Hackathon Experience
 
 ### MirrorDocs SaaS — Multi-Institution Plagiarism Detection Platform
-🚀 **Role: Team Lead (Hackathon Project)**
+**Role: Team Lead (Hackathon Project)**
 
 A SaaS platform designed to detect plagiarism across multiple institutions with secure role-based access and scalable architecture.
 
-#### 💡 My Contribution
+#### My Contribution
 - Led a team in designing and developing the full system architecture
 - Defined product flow and system structure for multi-institution usage
 - Coordinated backend development using Django & PostgreSQL
 - Focused on **system usability, structure, and scalable design thinking**
 - Ensured smooth collaboration between backend logic and product requirements
 
-#### 🧩 Key Idea Behind the Product
+#### Key Idea Behind the Product
 A privacy-first plagiarism detection system where:
 - Institutions manage their own users and resources
 - Cross-institution plagiarism detection happens securely
@@ -67,7 +67,7 @@ A privacy-first plagiarism detection system where:
 
 ## 🚀 Featured Projects
 
-### 🌿 Nature Touch — E-Commerce Web Application
+### Nature Touch — E-Commerce Web Application
 A full-stack Django-based e-commerce platform focused on smooth UX and clean UI.
 
 - Product browsing with category-based structure
@@ -81,7 +81,7 @@ A full-stack Django-based e-commerce platform focused on smooth UX and clean UI.
 
 ---
 
-### 🧪 QA Testing Practice Repository
+### QA Testing Practice Repository
 A structured QA learning space focused on real-world testing workflows.
 
 - Manual test case design
@@ -93,7 +93,7 @@ A structured QA learning space focused on real-world testing workflows.
 
 ---
 
-## 🎨 UI/UX Design Portfolio
+## UI/UX Design Portfolio
 
 I design user-friendly interfaces for web and mobile applications focused on usability and clarity.
 
