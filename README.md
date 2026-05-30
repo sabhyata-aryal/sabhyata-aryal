@@ -21,17 +21,6 @@
 
 ---
 
-## 🎯 Design Philosophy
-
-> “Good design is invisible, users should feel it not notice it.”
-
-- Prioritizing **clarity over complexity**
-- Designing for **real user problems**
-- Balancing **aesthetics + usability**
-- Building interfaces that feel **natural, not forced**
-
----
-
 ## 🛠 Tech & Design Stack
 
 ### 🎨 UI/UX & Design Tools
